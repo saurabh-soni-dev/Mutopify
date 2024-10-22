@@ -54,6 +54,9 @@
 		<string>Satoshi-Light.otf</string>
 		<string>Satoshi-Medium.otf</string>
 		<string>Satoshi-Regular.otf</string>
+		<string>MaterialIcons.ttf</string>
+		<string>IonIcons.ttf</string>
+		<string>MaterialCommunityIcons.ttf</string>
 	</array>
 </dict>
 </plist>
